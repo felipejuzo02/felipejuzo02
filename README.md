@@ -1,2 +1,3 @@
 # Luis Felipe Juzo
-{ Dev. FrontEnd }
+![Luis Felipe Juzo GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejuzo02&show_icons=true&theme=radical)
+
