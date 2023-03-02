@@ -5,7 +5,6 @@
 ### Hello World 👋 I am [Luis Felipe Juzo](https://github.com/felipejuzo02)
 
 <p><b>{ Frontend Developer }</b></p>
-<p>   👨‍🎓 Systems Analysis and Development Student </p>
 <p>  👨‍💻 Frontend Developer in NAVE - Bild & Vitta </p>
 <hr>
 
