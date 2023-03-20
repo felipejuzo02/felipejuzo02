@@ -1,6 +1,6 @@
 ### Eai meu guerra, sou o Luis Felipe!!
 
-- 🔭 Apaixonado e enjado na tecnologia.
+- 🔭 Apaixonado e engajado na tecnologia.
 - 🧑🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Front End
 
